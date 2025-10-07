@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "react-news-section",
+    "libraryId": "8dea4b05-e2ef-4df3-b766-043c222ca9e5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-news-section",
+    "solutionShortDescription": "react-news-section description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

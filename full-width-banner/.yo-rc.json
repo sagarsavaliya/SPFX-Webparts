@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "full-width-banner",
+    "libraryId": "5b39fd5a-90c4-4979-b2f2-604f96d44e71",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Full-Width-Banner",
+    "solutionShortDescription": "Full-Width-Banner description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

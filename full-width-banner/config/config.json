@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "banner-with-search-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/bannerWithSearch/BannerWithSearchWebPart.js",
+          "manifest": "./src/webparts/bannerWithSearch/BannerWithSearchWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "BannerWithSearchWebPartStrings": "lib/webparts/bannerWithSearch/loc/{locale}.js",
+    "PropertyControlStrings": "node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js"
+  }
+}
